@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  python-scheduler:
+    image: python-scheduler
+    restart: always
+    environment:
+      - TZ=Europe/Moscow
+    

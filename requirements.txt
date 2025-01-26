@@ -1,0 +1,16 @@
+APScheduler==3.11.0
+certifi==2024.12.14
+charset-normalizer==3.4.1
+click==8.1.8
+colorama==0.4.6
+idna==3.10
+Pygments==2.19.1
+PyYAML==6.0.2
+requests==2.32.3
+shellingham==1.5.4
+toml==0.10.2
+twc-cli==2.7.0
+typer-slim==0.12.5
+typing_extensions==4.12.2
+tzlocal==5.2
+urllib3==2.3.0
